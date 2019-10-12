@@ -1,4 +1,4 @@
-Contributing to Sulan & Selim & lol
+Contributing to Sulan & Selim & Said
 
 We are happy to accept your contributions to make `flair` better and more awesome! To avoid unnecessary work on either 
 side, please stick to the following process:
